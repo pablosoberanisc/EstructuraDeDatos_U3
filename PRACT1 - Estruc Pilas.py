@@ -42,3 +42,6 @@ pila.insertar("R")
 
 
 print("Elementos en la pila:", pila.pila[:pila.tope])
+
+"""""
+La pila se quedo con dos elementos ['V', 'R'] y si hubo 3 errores de subdesbordamiento
