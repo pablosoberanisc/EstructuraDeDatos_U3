@@ -1,1 +1,1 @@
-from .Funciones import leer_pdf
+from Funciones import create_linked_list
