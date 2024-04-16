@@ -1,0 +1,9 @@
+README.md
+setup.py
+MyLinkedList/Funciones.py
+MyLinkedList/__init__.py
+MyLinkedList.egg-info/PKG-INFO
+MyLinkedList.egg-info/SOURCES.txt
+MyLinkedList.egg-info/dependency_links.txt
+MyLinkedList.egg-info/requires.txt
+MyLinkedList.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: MyLinkedList
+Version: 0.0.1
+Summary: Librería para administrar nodos
+Home-page: https://github.com/pablosoberanisc
+Author: Pablo David Soberanis Cetz
+Author-email: soberaniscetzpablo@gmail.com
+License: MIT
+Description-Content-Type: text/markdown
+Requires-Dist: pymupdf
